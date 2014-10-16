@@ -2,7 +2,7 @@
 date: "2014-10-16T10:45:20-03:00"
 tags: []
 hat: sdflkajfdls
-title: "\"<script> alert(\"hola\"); </script>\""
+title: lskdfjlksjd
 support_line: sdf
 menu: lutas e mobilizações
 layout: post
