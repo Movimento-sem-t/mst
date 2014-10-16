@@ -17,7 +17,7 @@ picture_week: ""
 images_hd: "http://www.mst.org.br/sites/default/files/Cidona.jpg"
 label: null
 menu: meio ambiente
-date: "NaN-NaN-NaNTNaN:NaN:NaN-NaN:NaN"
+date: "2014-10-14T00:00:00-03:00"
 files:
   - thumbnail: "http://www.mst.org.br/sites/default/files/Cidona.jpg"
     small: "http://www.mst.org.br/sites/default/files/Cidona.jpg"
