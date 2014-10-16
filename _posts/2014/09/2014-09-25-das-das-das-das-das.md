@@ -18,8 +18,9 @@ files:
     small: "http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg"
     title: carlos-marighella-600x207.png
     $$hashKey: 03O
-published: true
-images_hd: "http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg"
+published: false
+images_hd: "http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg"
+layout: post
 
 ---
 <p>&nbsp;</p>
