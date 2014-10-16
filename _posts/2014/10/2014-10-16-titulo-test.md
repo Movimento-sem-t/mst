@@ -13,7 +13,7 @@ files:
     small: "http://farm4.staticflickr.com/3947/15547110131_b3a125ea52_n.jpg"
     title: Screen Shot 2014-10-06 at 2.08.23 PM.png
     $$hashKey: 01I
-published: false
+published: true
 images_hd: "http://farm4.staticflickr.com/3947/15547110131_b3a125ea52_n.jpg"
 
 ---
