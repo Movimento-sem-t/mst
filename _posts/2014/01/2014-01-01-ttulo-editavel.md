@@ -2,10 +2,10 @@
 date: "2014-01-01T17:12:27-03:00"
 tags:
   - tag: noticia-editavel
-hat: Chapeu editavel
-title: Tituloeditavel
-support_line: Linha fina editavel
-menu: agronegócio
+hat: Teste chapeu
+title: "Teste titulo 20/10/2014 17:17:30video"
+support_line: Teste linha fina
+menu: meio ambiente
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3951/15562509706_e7c611cedd_b.jpg"
