@@ -1,8 +1,9 @@
 ---
 date: "2014-01-01T17:12:27-03:00"
-tags: []
+tags:
+  - tag: noticia-editavel
 hat: Chapeu editavel
-title: Título editavel
+title: Tituloeditavel
 support_line: Linha fina editavel
 menu: agronegócio
 layout: post
