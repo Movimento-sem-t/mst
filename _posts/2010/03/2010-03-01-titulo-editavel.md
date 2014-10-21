@@ -2,10 +2,10 @@
 date: "2010-03-01T16:34:10-03:00"
 tags:
   - tag: tag-editavel
-hat: Teste chapeu
-title: "Teste titulo 21/10/2014 17:34:22video"
-support_line: Teste linha fina
-menu: meio ambiente
+hat: Chapeu Editavel
+title: Titulo editavel
+support_line: Linha fina editavel
+menu: reforma agrária
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3947/15570851176_76e7533c91_b.jpg"
@@ -18,3 +18,4 @@ published: false
 images_hd: "http://farm4.staticflickr.com/3947/15570851176_76e7533c91_n.jpg"
 
 ---
+<p>Noticia editavel</p>
