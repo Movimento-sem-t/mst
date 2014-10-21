@@ -3,7 +3,7 @@ date: "2010-03-01T16:34:10-03:00"
 tags:
   - tag: tag-editavel
 hat: Teste chapeu
-title: "Teste titulo 21/10/2014 17:52:52"
+title: "Teste titulo 21/10/2014 17:53:23"
 support_line: Teste linha fina
 menu: meio ambiente
 layout: post
@@ -18,4 +18,3 @@ published: false
 images_hd: "http://farm4.staticflickr.com/3947/15570851176_76e7533c91_n.jpg"
 
 ---
-<p>Noticia editavel</p>
