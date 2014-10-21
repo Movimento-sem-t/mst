@@ -3,7 +3,7 @@ date: "2014-01-01T17:12:27-03:00"
 tags:
   - tag: noticia-editavel
 hat: Teste chapeu
-title: "Teste titulo 21/10/2014 11:52:20video"
+title: "Teste titulo 21/10/2014 11:58:51video"
 support_line: Teste linha fina
 menu: meio ambiente
 layout: post
