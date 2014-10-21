@@ -2,10 +2,10 @@
 date: "2010-03-01T16:34:10-03:00"
 tags:
   - tag: tag-editavel
-hat: Teste chapeu
-title: "Teste titulo 21/10/2014 18:11:12"
-support_line: Teste linha fina
-menu: meio ambiente
+hat: Chapeu Editavel
+title: Titulo Editavel
+support_line: Linha fina Editavel
+menu: poemas-e-poesias
 layout: post
 files:
   - link: "http://farm4.staticflickr.com/3947/15570851176_76e7533c91_b.jpg"
