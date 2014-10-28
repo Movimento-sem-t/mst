@@ -106,7 +106,7 @@
   "pattern": "",
   "icon": "fa-picture-o",
   "title": "Imagem de Capa",
-  "required": true,
+  "required": false,
   "type": {
     "view": "cover"
   },
