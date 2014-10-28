@@ -109,11 +109,6 @@
   "required": false,
   "type": {
     "view": "cover"
-  },
-  "need": {
-    "field": "section",
-    "equal": false,
-    "value": "tv"
   }
 },
 {
