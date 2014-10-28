@@ -2,9 +2,9 @@
 date: "2010-03-01T16:34:10-03:00"
 tags:
   - tag: tag-editavel
-hat: Teste chapeu
-title: "Teste titulo 28/10/2014 14:15:03video"
-support_line: Teste linha fina
+hat: Chapeu editavel
+title: Titulo editavel
+support_line: Linha fina editavel
 menu: meio ambiente
 layout: post
 files:
